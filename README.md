@@ -1,4 +1,4 @@
-# shamsi_dark_rainmeter
+# Shamsi (Solar , Persian) dark theme calendar
 Shamsi Rainmeter Ralendar Rith Dark Theme
 
 #Installation
